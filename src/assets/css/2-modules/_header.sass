@@ -1,0 +1,48 @@
+// Header Styles
+header
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.673), rgb(0, 0, 0)), url(/assets/img/hero-background.jpg)
+  background-size: cover
+  background-position: center
+  height: 90vh
+
+  .header-contain
+    max-width: 1110px
+    padding: 0 20px
+    display: flex
+    justify-content: start
+    align-items: center
+    height: 100%
+    margin: 0 auto
+
+    .header-wrap
+      display: flex
+      flex-direction: column
+      align-items: flex-start
+      max-width: 760px
+
+      .kicker
+        color: #fff
+        max-width: 480px
+
+// Certification Banner Styles
+.cert-banner
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-between
+  align-items: center
+  max-width: 1110px
+  margin: 0 auto
+  padding: 10px
+
+  img
+    width: 80px
+    max-height: 86px
+
+@media screen and ( max-width: 700px )
+  .cert-banner
+    justify-content: space-around
+
+    img
+      width: 55px
+      margin: 10px 0

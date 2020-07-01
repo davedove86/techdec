@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_7" data-name="Group 7" transform="translate(-152 36.5)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="30" cy="30" r="30" transform="translate(152 -36.5)" fill="rgba(0,0,0,0.06)"/>
+    <g id="bx-paint-roll" transform="translate(168 -22.5)">
+      <path id="Shape" d="M3.2,11A3.175,3.175,0,0,1,0,7.857V3.143A3.175,3.175,0,0,1,3.2,0H20.8A3.175,3.175,0,0,1,24,3.143V7.857A3.175,3.175,0,0,1,20.8,11Z" transform="translate(5)" fill="#0095e4"/>
+      <path id="Path" d="M17.417,15.882V12.706A3.175,3.175,0,0,0,14.25,9.529H3.167V0A3.175,3.175,0,0,0,0,3.176V9.529a3.175,3.175,0,0,0,3.167,3.176H14.25v3.176a1.584,1.584,0,0,0-1.583,1.588v7.941A1.584,1.584,0,0,0,14.25,27h3.167A1.584,1.584,0,0,0,19,25.412V17.471A1.584,1.584,0,0,0,17.417,15.882Z" transform="translate(0 5)" fill="#0095e4"/>
+    </g>
+  </g>
+</svg>

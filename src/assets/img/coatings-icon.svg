@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_10" data-name="Group 10" transform="translate(17 13.5)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="30" cy="30" r="30" transform="translate(-17 -13.5)" fill="rgba(0,0,0,0.06)"/>
+    <g id="Item" transform="translate(-1 0.5)">
+      <g id="bx-buildings">
+        <path id="Shape" d="M25.778,0H9.667A3.214,3.214,0,0,0,6.444,3.2v9.6H3.222A3.214,3.214,0,0,0,0,16V30.4A1.605,1.605,0,0,0,1.611,32H27.389A1.605,1.605,0,0,0,29,30.4V3.2A3.214,3.214,0,0,0,25.778,0ZM3.222,16h9.667V28.8H3.222ZM25.778,28.8H16.111V16a3.214,3.214,0,0,0-3.222-3.2H9.667V3.2H25.778Z" fill="#0095e4"/>
+        <path id="Shape-2" data-name="Shape" d="M13.4,6h3.2V9.2H13.4Zm6.4,0H23V9.2H19.8Zm0,6.449H23V15.6H19.8Zm0,6.35H23V22H19.8ZM7,18.8h3.2V22H7Z" fill="#0095e4"/>
+      </g>
+    </g>
+  </g>
+</svg>
