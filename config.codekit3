@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/cert-banner.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dist/cert-banner.html",
+		"oF": 0
+		},
 	"/contact-banner.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -39,20 +47,20 @@
 		"oAP": "/dist/head.html",
 		"oF": 0
 		},
-	"/header.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/dist/header.html",
-		"oF": 0
-		},
 	"/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
 		"oAP": "/dist/index.html",
+		"oF": 0
+		},
+	"/leisure.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dist/leisure.html",
 		"oF": 0
 		},
 	"/netlify.toml": {
@@ -81,6 +89,14 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/retail.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/dist/retail.html",
+		"oF": 0
 		},
 	"/sitemap.xml": {
 		"cB": 0,
@@ -278,12 +294,45 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/src/assets/img/leisure-hero-image.jpg": {
+		"ft": 16384,
+		"iS": 305542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/leisure-hero-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/src/assets/img/leisure-icon.jpg": {
 		"ft": 16384,
 		"iS": 52228,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/dist/assets/img/leisure-icon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/leisure-image-one.jpg": {
+		"ft": 16384,
+		"iS": 141268,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/leisure-image-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/leisure-image-two.jpg": {
+		"ft": 16384,
+		"iS": 85403,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/leisure-image-two.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -350,12 +399,45 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/src/assets/img/retail-hero-image.jpg": {
+		"ft": 16384,
+		"iS": 363041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/retail-hero-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/src/assets/img/retail-icon.jpg": {
 		"ft": 16384,
 		"iS": 53868,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/dist/assets/img/retail-icon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/retail-image-one.jpg": {
+		"ft": 16384,
+		"iS": 219319,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/retail-image-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/assets/img/retail-image-two.jpg": {
+		"ft": 16384,
+		"iS": 158406,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dist/assets/img/retail-image-two.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -445,7 +527,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 615319103.78129601
+	"lastBuiltDate": 615410190.241835
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
